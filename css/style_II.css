@@ -6760,9 +6760,9 @@ input[type="checkbox"]:checked + label:after {
 	width:100%;
 }
 .error_page_cntnt span{
-	font-size:200px;
-	color:#23c0e9;
-	font-weight:900;
+	font-size: 97px;
+    color: #346eb6;
+    font-weight: 600;
 }
 .error_page_cntnt h2 span:first-child{
 	text-shadow: -15px 0px 5px #e5e5e5;
@@ -6791,7 +6791,7 @@ input[type="checkbox"]:checked + label:after {
 }
 .error_page_cntnt h3:after{
 	content: '';
-    border: 1px solid #23c0e9;
+    border: 1px solid #346eb6;
     border-radius: 5px;
     display: block;
     width: 110px;
@@ -6810,7 +6810,8 @@ input[type="checkbox"]:checked + label:after {
 	margin:0px auto;
 }
 .error_page_cntnt a{
-	color:#23c0e9;
+	color: #346eb6;
+    font-size: 20px;
 }
 .error_page_mail_wrapper input {
     width: 60%;
