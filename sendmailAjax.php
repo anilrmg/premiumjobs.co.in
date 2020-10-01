@@ -84,6 +84,6 @@
     $return_array['admin_status'] = 'false';
     $return_array['admin_msg'] = "Problem in Sending Mail.";
   }
-  $return_array['url'] = "thank-you.html";
+  $return_array['url'] = "thank-you.php";
   echo json_encode($return_array);
 ?>
