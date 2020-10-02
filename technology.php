@@ -370,7 +370,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech12.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech12.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Product Software</h4>
@@ -386,7 +386,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -411,7 +411,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech11.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech11.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>DXC Technology is Hiring For Technical Support Executive </h4>
@@ -427,7 +427,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -452,7 +452,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech12.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech12.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Hiring For SIEM/Cyber Security Role Exp 0.6 To 2</h4>
@@ -468,7 +468,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -494,7 +494,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech11.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech11.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Content Strategist - Technology</h4>
@@ -510,7 +510,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -535,7 +535,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech12.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech12.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Content Strategist - Technology</h4>
@@ -551,7 +551,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -576,7 +576,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech11.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech11.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Content Strategist - Technology</h4>
@@ -592,7 +592,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -617,7 +617,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech12.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech12.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                  <h4>Content Strategist - Technology</h4>
@@ -633,7 +633,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -658,7 +658,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tech11.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tech11.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Content Strategist - Technology</h4>
@@ -674,7 +674,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

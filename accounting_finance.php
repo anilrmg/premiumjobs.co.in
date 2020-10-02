@@ -331,7 +331,9 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc1.png" alt="post_img" />
+                                    
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Finance Executive- Accounts Payable</h4>
@@ -347,7 +349,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -372,7 +374,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc2.png" alt="post_img" />
+                                                                <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Accounts Executive required in a leading transportation firm in Thane (1 - 3 Yrs Exp.)</h4>
@@ -388,7 +391,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -413,7 +416,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc1.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Senior Executive Finance & Accounts</h4>
@@ -429,7 +433,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -454,7 +458,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc2.png" alt="post_img" />
+                                                                <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Associate - Financial Acct. (R2R) (2-8 yrs)</h4>
@@ -470,7 +475,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -496,7 +501,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc2.png" alt="post_img" />
+                                                                <a href="artgraphic.php">
+                                                                    <img src="images/secton-img/acc2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Accounts & Finance Manager</h4>
@@ -512,7 +518,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -537,7 +543,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc1.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Asstt. Manager/Manager-Finance & Accounts(5-7 Yrs Exp.)</h4>
@@ -553,7 +560,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -578,7 +585,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc2.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Communication Design</h4>
@@ -594,7 +602,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -619,7 +627,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc1.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                  <h4>Accounts & Finance Executive</h4>
@@ -635,7 +644,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -660,7 +669,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/acc2.png" alt="post_img" />
+                                                                <a href="artgraphic.php">
+                                                                <img src="images/secton-img/acc2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Finance Executive- Accounts Payable</h4>
@@ -676,7 +686,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

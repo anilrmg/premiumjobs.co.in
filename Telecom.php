@@ -331,7 +331,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                               <h4>Assistant Manager - Telecom Network Operations and Maintenance - 13001 (1 - 3 Yrs Exp.)</h4>
@@ -347,7 +347,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -372,7 +372,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>11-Analyst-Telecom Operations</h4>
@@ -388,7 +388,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -413,7 +413,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Telecom Engineer</h4>
@@ -429,7 +429,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -454,7 +454,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                   <h4>12-Associate-Telecom Operations (2-8 yrs)</h4>
@@ -470,7 +470,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -496,7 +496,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Jio Point Manager – Career in Telecom Jobs near me in Maharashtra</h4>
@@ -512,7 +512,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -537,7 +537,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Telecommunications Engineer</h4>
@@ -553,7 +553,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -578,7 +578,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                               <h4>Telecom Engineer-Opensource Software</h4>
@@ -594,7 +594,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -619,7 +619,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                  <h4>L3/IP-MPLS Testing Engineer</h4>
@@ -635,7 +635,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -660,7 +660,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/tel1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/tel1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Telecom Engineer</h4>
@@ -676,7 +676,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

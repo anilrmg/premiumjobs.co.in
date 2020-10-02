@@ -50,32 +50,32 @@
                                     </div>
                                     <div class="row">
                                         
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="text" name="field-name" value="" placeholder="Full Name*">
                                         </div>
                                         
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="text" name="field-name" value="" placeholder="Email*">
                                         </div>
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="text" name="field-name" value="" placeholder="phone">
                                         </div>
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="password" name="field-name" value="" placeholder=" Username*">
                                         </div>
                                         
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="password" name="field-name" value="" placeholder=" password*">
                                         </div>
                                         
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group col-md-12">
                                             <input type="password" name="field-name" value="" placeholder="re-enter password*">
                                         </div>
                                         
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                             <div class="check-box text-center">
-                                                <input type="checkbox" name="shipping-option" id="account-option_1"> &ensp;
-                                                <label for="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label>
+                                               
+                                                <label for="account-option_1"> &ensp; <input type="checkbox" name="shipping-option" id="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label>
                                             </div>
                                         </div>
                                     </div>

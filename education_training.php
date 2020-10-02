@@ -331,7 +331,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                               <h4>Training & Development Specialist (1 - 2 Yrs Exp.)</h4>
@@ -347,7 +347,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -372,7 +372,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Training Manager/Executive</h4>
@@ -388,7 +388,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -413,7 +413,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Multiple Courses Teaching Trainer</h4>
@@ -429,7 +429,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -454,7 +454,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>Manager - Teacher Recruitment & Training - Online Coding Education (2-8 yrs)</h4>
@@ -470,7 +470,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -496,7 +496,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Business Development Executive from Educational industry</h4>
@@ -512,7 +512,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -537,7 +537,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                <h4>HR Executive/Recruiter, Regional Manager/Manager(Operations), Regional...(5-7 Yrs Exp.)</h4>
@@ -553,7 +553,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -578,7 +578,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                              <h4>Learning Development Specialist(1 - 2 Yrs Exp.)</h4>
@@ -594,7 +594,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -619,7 +619,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art2.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art2.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                  <h4>Learning Development Specialist(1 - 2 Yrs Exp.)</h4>
@@ -635,7 +635,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -660,7 +660,7 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/art1.png" alt="post_img" />
+                                                                <a href="artgraphic.php"><img src="images/secton-img/art1.png" alt="post_img" /></a>
                                                             </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Manager - Teacher Recruitment and Training</h4>
@@ -676,7 +676,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

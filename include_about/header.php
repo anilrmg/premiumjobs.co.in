@@ -35,8 +35,8 @@
                             <div class="col-md-6">
                                 <div class="top-header-left">
                                     <div class="left_cont">
-                                        <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+91 7738655884" style="color: white;">Phone No.+91 7738655884 </a></p>
-                                        <p class="mail-one"><i class="fa fa-envelope-open" aria-hidden="true"></i><a href="mailto:info@premiumjobs.co.in" style="color: white;"> mail to:info@premiumjobs.co.in</a></p>
+                                         <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+91 7738655884" style="color: white;">  +91 7738655884 </a></p>
+                                        <p class="mail-one"><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:info@premiumjobs.co.in" style="color: white;"> :info@premiumjobs.co.in</a></p>
                                     </div>
                                 </div>
                             </div>

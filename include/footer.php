@@ -21,11 +21,11 @@
                                     <h2>Who We Are</h2>
                                     <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
                                     <ul>
-                                        <li><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-                                        <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                        <li><a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                        <li><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                                        <li><a href=""><i class="fa fa-pinterest-square" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-pinterest-square" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -64,12 +64,12 @@
                                 <div class="jp_footer_candidate">
                                     <h2>contact</h2>
                                     <ul>
-                                        <li style="color: #fff;"><i class="fa fa-home" aria-hidden="true" style="font-size: 23px; color: #efd92e;"></i>Unit No.7, 2nd Floor,
+                                        <li style="color: #fff;"><i class="fa fa-home" aria-hidden="true" style="font-size: 23px; color: #efd92e;"></i>  Unit No.7, 2nd Floor,
                                             Seema Sadan, Manchhu bhai road,
                                             Malad East, Mumbai - 400097,
                                         Maharashtra, India.</li>
                                         <li><a href="tel:+91 7738655884"><i class="fa fa-mobile" aria-hidden="true" style="font-size: 23px;"></i> +91 7738655884 </a></li>
-                                        <li><a href="mailto:info@premiumjobs.co.in"><i class="fa fa-envelope-open" aria-hidden="true" style="font-size: 23px;"></i>info@premiumjobs.co.in</a></li>
+                                        <li><a href="mailto:info@premiumjobs.co.in"><i class="fa fa-envelope-o" aria-hidden="true" style="font-size: 23px;"></i>info@premiumjobs.co.in</a></li>
                                         
                                     </ul>
                                 </div>

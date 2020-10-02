@@ -87,7 +87,8 @@
 		top:37px;
 	}
 	.jp_form_location_wrapper .second_icon, .jp_form_exper_wrapper .second_icon{
-		top:37px;
+		top: 19px;
+    left: 10px;
 	}
 	.jp_top_jobs_category_wrapper{
 		width:33.33%;
@@ -340,5 +341,10 @@
 @media (min-width: 1199px) and (max-width: 1250px){
 	.center_responsive{
 		width:75%;
+	}
+}
+@media (min-width: 320px){
+	.jp_form_location_wrapper i{
+		padding-top: 18px;
 	}
 }

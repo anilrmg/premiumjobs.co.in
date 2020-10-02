@@ -6872,7 +6872,7 @@ input[type="checkbox"]:checked + label:after {
     height: 50px;
 	padding: 6px 25px;
     line-height: 36px;
-	margin-bottom: 2px;
+	margin-bottom: 15px;
 	text-align:left;
 	border-radius:8px;
     background: #346eb6;
@@ -6979,9 +6979,9 @@ input[type="checkbox"]:checked + label:after {
 	right: 25px;
 }
 .login_remember_box{
-	margin-top:30px;
-	margin-bottom:30px;
-	color:#999;
+	margin-top: 17px;
+    margin-bottom: 17px;
+    color: #999;
 }
 .login_remember_box .control {
     position: relative;
@@ -7061,6 +7061,7 @@ input[type="checkbox"]:checked + label:after {
 	text-align:center;
 	margin:0px auto;
 	font-size:14px;
+    margin-top: 21px;
 }
 
 /* login_section end */
@@ -7094,7 +7095,7 @@ input[type="checkbox"]:checked + label:after {
 }
 .register_tab_wrapper .register-tabs>li.active {
   position: relative;
-   padding-left: 45px;
+  padding-left: 15px;
 }
 .register_tab_wrapper .register-tabs>li.active::after {
 	content: "";
@@ -8734,8 +8735,7 @@ font-size: 40px;
         padding-left: 225px;
 }
 .sign-img img{
-  height: 644px;
-    padding-left: 30px;
+  height: 831px;
 }
 .borader{
     border: 1px solid #e4e4e4;
@@ -8774,4 +8774,7 @@ font-size: 40px;
     height: 36px;
     border-radius: 10px;
     width: 97px;
+}
+.login_message{
+    margin-bottom: 21px;
 }

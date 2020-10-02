@@ -65,7 +65,7 @@
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href=""><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -77,10 +77,10 @@
                             <li><a href="#">senior</a></li>
                             <li><a href="#">it company,</a></li>
                             <li><a href="#">design,</a></li>
-                            <li><a href="#">call center</a></li>
+                            <li><a href="#">call center</a></li>  
                         </ul>
                     </div> -->
-                    <div class="jp_listing_related_heading_wrapper">
+                 <!--    <div class="jp_listing_related_heading_wrapper">
                         <h2>Related Jobs</h2>
                         <div class="jp_listing_related_slider_wrapper">
                             <div class="owl-carousel owl-theme">
@@ -467,8 +467,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
+
+
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -577,7 +579,7 @@
                                         <div class="jp_listing_right_bar_btn">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;Apply With Linkedin</a></li>
-                                                <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;Apply NOw!</a></li>
+                                                <li><a href="Resume.php"><i class="fa fa-plus-circle"></i> &nbsp;Apply NOw!</a></li>
                                             </ul>
                                         </div>
                                     </div>

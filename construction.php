@@ -331,7 +331,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con1.png" alt="post_img" />
+                                                               <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con1.png" alt="post_img" /></a>
                                                             </div>
                                                             
                                                             <div class="jp_job_post_right_cont">
@@ -348,7 +349,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -373,7 +374,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con2.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con2.png" alt="post_img"/></a>
                                                             </div>
                                                           
                                                             <div class="jp_job_post_right_cont">
@@ -390,7 +392,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -415,7 +417,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con1.png" alt="post_img" />
+                                                               <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con1.png" alt="post_img" /> </a>
                                                             </div>
                                                             
                                                             <div class="jp_job_post_right_cont">
@@ -432,7 +435,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -457,7 +460,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con2.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con2.png" alt="post_img" /></a>
                                                             </div>
                                                            
                                                             <div class="jp_job_post_right_cont">
@@ -474,7 +478,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -500,7 +504,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con1.png" alt="post_img" />
+                                                               <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con1.png" alt="post_img" /> </a>
                                                             </div>
                                                            
                                                             <div class="jp_job_post_right_cont">
@@ -517,7 +522,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -542,7 +547,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con2.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con2.png" alt="post_img" /></a>
                                                             </div>
                                                             
                                                             <div class="jp_job_post_right_cont">
@@ -559,7 +565,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -584,7 +590,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con1.png" alt="post_img" />
+                                                               <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con1.png" alt="post_img" /> </a>
                                                             </div>
                                                          
                                                             <div class="jp_job_post_right_cont">
@@ -601,7 +608,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -626,7 +633,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con2.png" alt="post_img" />
+                                                                 <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con2.png" alt="post_img" /></a>
                                                             </div>
                                                            
                                                             <div class="jp_job_post_right_cont">
@@ -643,7 +651,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -668,7 +676,8 @@
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img">
-                                                                <img src="images/secton-img/con1.png" alt="post_img" />
+                                                               <a href="artgraphic.php">
+                                                                <img src="images/secton-img/con1.png" alt="post_img" /> </a>
                                                             </div>
                                                             
                                                             <div class="jp_job_post_right_cont">
@@ -685,7 +694,7 @@
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Full Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="artgraphic.php">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
