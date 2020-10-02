@@ -96,7 +96,8 @@
                                 </li>
                                 <li class="gc_main_navigation parent"><a href="contact.php" class="gc_main_navigation">Contact</a></li>
                                 <li class="gc_main_navigation parent"><a href="resume.php" class="gc_main_navigation">Upload Resume</a></li>
-                                <li class="gc_main_navigation parent"><a href="employee.php" class="gc_main_navigation">Employee</a></li>
+                                 <li class="gc_main_navigation parent"><a href="Resume.php" class="gc_main_navigation">Upload Resume</a></li>
+                                 <li class="gc_main_navigation parent"><a href="employee.php" class="gc_main_navigation">Employer</a></li>
                             </ul>
                         </div>
                         
@@ -176,6 +177,12 @@
                                                     
                                                     <li>
                                                         <a href="contact.php">Contact</a>
+                                                    </li>
+                                                     <li>
+                                                        <a href="Resume.php">Upload Resume</a>
+                                                    </li>
+                                                     <li>
+                                                        <a href="employee.php.Php">Employer</a>
                                                     </li>
                                                     <li>
                                                         <a href="register.php">Sign Up</a>

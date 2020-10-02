@@ -7094,7 +7094,7 @@ input[type="checkbox"]:checked + label:after {
 }
 .register_tab_wrapper .register-tabs>li.active {
   position: relative;
-    padding-left: 63px;
+   padding-left: 45px;
 }
 .register_tab_wrapper .register-tabs>li.active::after {
 	content: "";
@@ -8734,8 +8734,8 @@ font-size: 40px;
         padding-left: 225px;
 }
 .sign-img img{
-  height: 617px;
-    padding-left: 48px;
+  height: 644px;
+    padding-left: 30px;
 }
 .borader{
     border: 1px solid #e4e4e4;
@@ -8762,4 +8762,16 @@ font-size: 40px;
     width: 123px;
     height: 34px;
     border-radius: 10px;
+}
+.custom-login{
+  float: right;
+    margin-top: -63px;
+}
+.custom-login button{
+    background-color: #346eb6;
+    color: white;
+    border: 1px solid #346eb6;
+    height: 36px;
+    border-radius: 10px;
+    width: 97px;
 }

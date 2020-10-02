@@ -6,13 +6,13 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="jp_tittle_heading_wrapper">
                         <div class="jp_tittle_heading">
-                            <h2>employee</h2>
+                            <h2>employer</h2>
                         </div>
                         <div class="jp_tittle_breadcrumb_main_wrapper">
                             <div class="jp_tittle_breadcrumb_wrapper">
                                 <ul>
                                     <li><a href="#">Home</a> <i class="fa fa-angle-right"></i></li>
-                                    <li>employee</li>
+                                    <li>employer</li>
                                 </ul>
                             </div>
                         </div>
@@ -26,38 +26,37 @@
 	<div class="jp_adp_main_section_wrapper">
 		<div class="container">
 			<div class="row">
+					<div class="custom-login">
+                        <a href="login.php"><button type="button"><i class="fa fa-sign-in"></i> LOGIN</button></a>
+                        </div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="jp_adp_form_heading_wrapper">
 						<h2>Employee-Details</h2>
 					</div>
 					<div class="jp_adp_form_wrapper">
-						<input type="text" placeholder="Name">
+						 <input type="text" name="field-name" value="" placeholder="Full Name*">
 					</div>
 					<div class="jp_adp_form_wrapper">
-						<input type="text" placeholder="Email Id.">
+						 <input type="text" name="field-name" value="" placeholder="Email*">
 					</div>
 					<div class="jp_adp_form_wrapper">
-                        <input type="text" placeholder="Address.">
+                        <input type="text" name="field-name" value="" placeholder="phone">
                     </div>
 					
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 bottom_line_Wrapper">
+
 					<div class="jp_adp_form_heading_wrapper">
 						<p>Fields with * are mandetory</p>
 					</div>
 					<div class="jp_adp_form_wrapper">
-						<input type="text" placeholder="Surname">
+						 <input type="password" name="field-name" value="" placeholder=" Username*">
 					</div>
 					<div class="jp_adp_form_wrapper">
-						<input type="text" placeholder="Phone No.">
+						 <input type="password" name="field-name" value="" placeholder=" password*">
 					</div>
 					<div class="jp_adp_form_wrapper">
-						<select>
-                            <option>Country</option>
-                            <option>Country</option>
-                            <option>Country</option>
-                            <option>Country</option>
-                        </select>
+						<input type="password" name="field-name" value="" placeholder="re-enter password*">
 					</div>
 					
 				</div>
