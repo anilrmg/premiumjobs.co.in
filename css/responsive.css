@@ -4,6 +4,7 @@
 	}
 	.jp_job_post_right_btn_wrapper ul{
 		float:left;
+		margin-left: 193px;
 	}
 	.jp_job_post_right_btn_wrapper ul li{
 		float:left !important;
@@ -118,7 +119,9 @@
 		margin-top:40px;
 	}
 	.jp_bottom_footer_Wrapper{
-		text-align:center;
+	text-align: center;
+    margin-top: 1032px;
+    padding-left: 23px;
 	}
 	.jp_bottom_footer_left_cont{
 		display:inline-block;
@@ -343,8 +346,23 @@
 		width:75%;
 	}
 }
-@media (min-width: 320px){
-	.jp_form_location_wrapper i{
-		padding-top: 18px;
-	}
+@media (max-width: 991px){
+.jp_footer_three_sec_main_wrapper{
+	height: 1027px;
+}
+.jp_newsletter_wrapper{
+	left: 15px;
+    width: 395px;
+}
+}
+
+@media (max-width: 320px){
+.jp_footer_three_sec_main_wrapper {
+    height: 1022px;
+    }
+    .jp_bottom_footer_Wrapper{
+    text-align: center;
+    margin-top: 1028px;
+    padding-left: 17px;
+}
 }
