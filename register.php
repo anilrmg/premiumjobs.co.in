@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>   
     </div>
 </div>
 
@@ -34,9 +34,11 @@
                         <div role="tabpanel">
                             
                             <ul id="tabOne" class="nav register-tabs">
-                                <li class="active"><a href="#contentOne-1" data-toggle="tab">Sign Up</a>
-                            </li>
-                        </ul>
+                                <li class="active"><a href="#contentOne-1" data-toggle="tab">personal account <br> <span>i am looking for a job</span></a>
+                                </li>
+                                <li><a href="#contentOne-2" data-toggle="tab">company account <br> <span>We are hiring Employees</span></a>
+                                </li>
+                            </ul>
                         <div class="col-md-6 sign-img">
                             <img src="images/secton-img/sign-up.jpg">
                         </div>
@@ -49,8 +51,8 @@
                                         <p>Fields with * are mandetory </p>
                                     </div>
                                     <div class="row">
-                                        
-                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                     
+                                      <div class="form-group col-md-6 col-sm-6 col-xs-12">
                                             <input type="text" name="field-name" value="" placeholder="Full Name*">
                                         </div>
                                         
@@ -71,7 +73,14 @@
                                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
                                             <input type="password" name="field-name" value="" placeholder="re-enter password*">
                                         </div>
-                                        
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12 custom_input">
+                                         <div class="custom-input">
+                                             <p><i class="fa fa-upload"></i> &nbsp;Upload Resume</p>
+                                            <input type="file" name="resume"/>
+                                        </div>
+                                            <!-- <p>DOC, DOCX, RTF, PDF - 300KB MAX PREFERRED CV FORMAT - DOCX FILE</p> -->
+                                        </div>
+                                            
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                             <div class="check-box text-center">
                                                 <input type="checkbox" name="shipping-option" id="account-option_1"> &ensp;
@@ -79,20 +88,79 @@
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="login_btn_wrapper register_btn_wrapper login_wrapper ">
                                         <a href="#" class="btn btn-primary login_btn"> register </a>
                                     </div>
                                     <div class="login_message">
-                                        <p>Already a member? <a href="login.php"> Login Here </a> </p>
+                                        <p>Already a member? <a href="#"> Login Here </a> </p>
                                     </div>
-                                    <div class="borader"></div>
                                 </div>
-                                <p class="btm_txt_register_form">In case you are using a public/shared computer we recommend that you logout to prevent any un-authorized access to your account</p>
+
+                                <div class="tab-pane fade register_left_form" id="contentOne-2">
+
+                                    <div class="jp_regiter_top_heading">
+                                        <p>Fields with * are mandetory </p>
+                                    </div>
+                                    <div class="row clearfix">
+                                       
+                                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="text" name="field-name" value="" placeholder="Full Name*">
+                                        </div>
+                                        
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="text" name="field-name" value="" placeholder="Email*">
+                                        </div>
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="text" name="field-name" value="" placeholder="phone">
+                                        </div>
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="password" name="field-name" value="" placeholder=" Username*">
+                                        </div>
+                                        
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="password" name="field-name" value="" placeholder=" password*">
+                                        </div>
+                                        
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <input type="password" name="field-name" value="" placeholder="re-enter password*">
+                                        </div>
+                                      
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+
+                                            <input type="text" name="field-name" value="" placeholder="company name">
+
+                                        </div>
+
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+
+                                            <input type="text" name="field-name" value="" placeholder="address line">
+                                        </div>
+
+                                        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                            <div class="check-box text-center">
+                                                <input type="checkbox" name="shipping-option" id="account-option_2"> &ensp;
+                                                <label for="account-option_2">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="login_btn_wrapper register_btn_wrapper login_wrapper ">
+                                        <a href="#" class="btn btn-primary login_btn"> register </a>
+                                    </div>
+                                    <div class="login_message">
+                                        <p>Already a member? <a href="#"> Login Here </a> </p>
+                                    </div>
+
+                                </div>
+
                             </div>
+                           
                         </div>
                         
                     </div>
                 </div>
+                 <p class="btm_txt_register_form">In case you are using a public/shared computer we recommend that you logout to prevent any un-authorized access to your account</p>
             </div>
         </div>
     </div>

@@ -96,6 +96,7 @@
                                 </li>
                                 <li class="gc_main_navigation parent"><a href="contact.php" class="gc_main_navigation">Contact</a></li>
                                 <li class="gc_main_navigation parent"><a href="resume.php" class="gc_main_navigation">Upload Resume</a></li>
+                                <li class="gc_main_navigation parent"><a href="employee.php" class="gc_main_navigation">Employee</a></li>
                             </ul>
                         </div>
                         
