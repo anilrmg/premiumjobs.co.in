@@ -115,7 +115,7 @@
                                               <i class="fa fa-bars" aria-hidden="true"></i>
                                             </a>
                                             <nav class="cd-dropdown">
-                                                <h2><a href="#">premium<span>jobs</span></a></h2>
+                                                <h2><a href="index.php">premium<span>jobs</span></a></h2>
                                                 <a href="#0" class="cd-close">Close</a>
                                                 <ul class="cd-dropdown-content">
                                                     <li>
@@ -181,7 +181,7 @@
                                                         <a href="Resume.php">Upload Resume</a>
                                                     </li>
                                                      <li>
-                                                        <a href="employee.php.Php">Employer</a>
+                                                        <a href="employee.Php">Employer</a>
                                                     </li>
 
                                                     <li>

@@ -7,9 +7,10 @@
 		margin-left: 193px;
 	}
 	.jp_job_post_right_btn_wrapper ul li{
-		float:left !important;
-		margin-top:0 !important;
-		margin-left:20px !important;
+		float: left !important;
+    margin-top: -13px !important;
+    margin-left: 16px !important;
+    padding-top: 30px !important;
 	}
 	.jp_job_post_right_btn_wrapper ul li:first-child{
 		margin-left:0 !important;
@@ -121,7 +122,7 @@
 	.jp_bottom_footer_Wrapper{
 	text-align: center;
     margin-top: 1032px;
-    padding-left: 23px;
+   padding-left: 3px;
 	}
 	.jp_bottom_footer_left_cont{
 		display:inline-block;
@@ -364,5 +365,10 @@
     text-align: center;
     margin-top: 1028px;
     padding-left: 17px;
+}
+}
+@media (max-width: 320px){
+	.jp_job_post_right_cont{
+	padding-left: 3px;
 }
 }
